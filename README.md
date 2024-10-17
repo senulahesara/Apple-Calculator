@@ -5,15 +5,13 @@ This is an advanced calculator powered by the Google Gemini API, designed to sol
 ## Features
 
 - **Interactive Problem Solving**: Solve mathematical problems by drawing on the screen, such as calculating the hypotenuse by sketching a triangle and inputting the side lengths.
-- **Basic Arithmetic Operations**: Addition, Subtraction, Multiplication, and Division.
 - **Google Gemini API Integration**: Provides enhanced AI capabilities.
-- **Responsive Design**: Adapts to different screen sizes.
 - **Frontend and Backend Separation**: Powered by TypeScript, Python, and JavaScript.
 
 ## Technologies Used
 
 - **Frontend**: TypeScript, Vite, JavaScript
-- **Backend**: Python (with Flask or FastAPI)
+- **Backend**: Python
 - **Google Gemini API**: Provides AI functionalities
 
 ## Getting Started
@@ -101,7 +99,3 @@ You need to obtain an API key from the [Google Gemini API](https://cloud.google.
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue for improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
