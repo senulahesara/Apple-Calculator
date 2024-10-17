@@ -1,11 +1,12 @@
 # Apple Calculator
 
-This is a clone of the Apple Calculator powered by the Google Gemini API. It is built using TypeScript, Python, and JavaScript, and consists of a frontend (`calc-fe-main`) and a backend (`calc-be-main`). The calculator provides basic arithmetic functionalities and integrates AI through the Google Gemini API.
+This is an advanced calculator powered by the Google Gemini API, designed to solve mathematical problems through an interactive drawing interface. Users can draw shapes or diagrams on the screen to visually represent math problems, such as finding the length of the hypotenuse in a right-angled triangle, and the calculator will compute the answer using the given values.
 
 ## Features
 
+- **Interactive Problem Solving**: Solve mathematical problems by drawing on the screen, such as calculating the hypotenuse by sketching a triangle and inputting the side lengths.
 - **Basic Arithmetic Operations**: Addition, Subtraction, Multiplication, and Division.
-- **Google Gemini API Integration**: Enhanced capabilities through AI integration.
+- **Google Gemini API Integration**: Provides enhanced AI capabilities.
 - **Responsive Design**: Adapts to different screen sizes.
 - **Frontend and Backend Separation**: Powered by TypeScript, Python, and JavaScript.
 
@@ -77,7 +78,8 @@ This is a clone of the Apple Calculator powered by the Google Gemini API. It is 
 
 ## Usage
 
-- Perform basic calculations using the Apple Calculator UI.
+- Draw shapes and input values for solving mathematical problems.
+- For example, to find the hypotenuse of a right-angled triangle, draw the triangle, input the lengths of the legs, and press the "Run" button.
 - AI-powered features are available through integration with the Google Gemini API.
 
 ## Environment Variables
